@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229487463134",
+    "firebase_url": "https://twitter-clone-5e29f.firebaseio.com",
+    "project_id": "twitter-clone-5e29f",
+    "storage_bucket": "twitter-clone-5e29f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229487463134:android:458098378602da4d",
+        "android_client_info": {
+          "package_name": "com.emrekizildas.twitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229487463134-qm9k7ds4ie94av0bu6s9t1nfb349dtgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDakiI7UNXovM_5Z1D35smqUIGvbJjd6YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229487463134-qm9k7ds4ie94av0bu6s9t1nfb349dtgg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229487463134-3duom2graq0m575rcp4s6shaeil0ih03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emrekizildas.twitterclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
